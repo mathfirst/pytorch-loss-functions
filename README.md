@@ -1,1 +1,2 @@
-# pytorch-loss-functions
+## pytorch-loss-functions
+This repo contains some examples for common Pytorch loss functions, including cross-entropy loss, KL divergence, negative log-likelihood loss, binary cross-entropy, cosine similarity loss, etc. I wrote these code for future use.
